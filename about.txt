@@ -1,4 +1,3 @@
 file test
 
-<<<<<<< HEAD
 tiep tuc tesst trong may
